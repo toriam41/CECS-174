@@ -2,7 +2,7 @@
 
 Introduction to Programming and Problem Solving
 
-Langauge: Python
+Language: Python
 
 Technologies: Atom
 
