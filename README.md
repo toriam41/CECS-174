@@ -1,4 +1,4 @@
-# CECS174
+# CECS 174
 
 Introduction to Programming and Problem Solving
 
